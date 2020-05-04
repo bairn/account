@@ -2,8 +2,8 @@ package accounts
 
 import (
 	"database/sql"
+	"github.com/bairn/account/services"
 	"github.com/shopspring/decimal"
-	"account/services"
 	"time"
 )
 

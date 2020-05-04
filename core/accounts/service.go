@@ -3,11 +3,11 @@ package accounts
 import (
 	"errors"
 	"fmt"
+	"github.com/bairn/account/services"
+	"github.com/bairn/infra/base"
 	"github.com/shopspring/decimal"
 	"github.com/sirupsen/logrus"
 	"gopkg.in/go-playground/validator.v9"
-	"github.com/bairn/infra/base"
-	"account/services"
 	"sync"
 )
 

@@ -1,8 +1,8 @@
 package account
 
 import (
-	_ "account/apis/web"
-	_ "account/core/accounts"
+	_ "github.com/bairn/account/apis/web"
+	_ "github.com/bairn/account/core/accounts"
 	"github.com/bairn/infra"
 	"github.com/bairn/infra/base"
 )

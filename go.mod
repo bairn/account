@@ -1,4 +1,4 @@
-module account
+module github.com/bairn/account
 
 go 1.14
 
