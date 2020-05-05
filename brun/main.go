@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/bairn/props/ini"
-	"github.com/bairn/props/kvs"
+	"github.com/tietang/props/ini"
+	"github.com/tietang/props/kvs"
 	_ "github.com/bairn/account"
 	"github.com/bairn/infra"
 	"github.com/bairn/infra/base"

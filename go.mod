@@ -11,7 +11,7 @@ require (
 	github.com/sirupsen/logrus v1.6.0
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/tietang/dbx v1.0.1
-	github.com/bairn/props v2.2.0+incompatible
+	github.com/tietang/props v2.2.0+incompatible
 	golang.org/x/sys v0.0.0-20200501145240-bc7a7d42d5c3 // indirect
 	gopkg.in/go-playground/validator.v9 v9.31.0
 	gopkg.in/ini.v1 v1.55.0 // indirect
